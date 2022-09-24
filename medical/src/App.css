@@ -1,0 +1,8 @@
+.App {
+  height: 100%;
+  /* padding-right: 75px; */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-image: url('./assets/Background.jpg');
+}
